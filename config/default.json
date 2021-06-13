@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://denizkaptan:CjkWV5kWnFfNqBJ@developerconnector.zgidd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://denizkaptan:CjkWV5kWnFfNqBJ@developerconnector.zgidd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"jwtSecret": "secretUserToken"
 }

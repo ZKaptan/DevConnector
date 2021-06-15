@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://denizkaptan:CjkWV5kWnFfNqBJ@developerconnector.zgidd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"jwtSecret": "secretUserToken",
+	"githubClientId": "e7c141956bf4b4f93a0a",
+	"githubSecret": "ebfcaa8fdb76ede3a655a0a0804ae2e8bcbeb489"
+}

@@ -22,7 +22,7 @@ const Register = ({ setAlert, register, isAuthenticated }) => {
 		});
 	};
 
-	const submitHandler = async (e) => {
+	const submitHandler = (e) => {
 		e.preventDefault();
 		if (password !== password2) {
 			setAlert("Passwords do not match", "danger");

@@ -19,7 +19,7 @@ const Login = ({ login, isAuthenticated }) => {
 		});
 	};
 
-	const submitHandler = async (e) => {
+	const submitHandler = (e) => {
 		e.preventDefault();
 		login(email, password);
 	};

@@ -16,7 +16,7 @@ const Dashboard = ({
 }) => {
 	useEffect(() => {
 		getCurrentProfile();
-	}, []);
+	}, [getCurrentProfile]);
 
 	// We do not want to load jsx before we get the profile data from the server
 	return loading && profile === null ? (

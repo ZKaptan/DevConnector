@@ -20,6 +20,8 @@ export const getCurrentProfile = () => async (dispatch) => {
 			payload: res.data,
 		});
 	} catch (err) {
+		dispatch({ type: CLEAR_PROFILE });
+
 		dispatch({
 			type: PROFILE_ERROR,
 			payload: { msg: err.response.statusText, status: err.response.status },
@@ -73,6 +75,7 @@ export const getGithubRepos = (username) => async (dispatch) => {
 			payload: res.data,
 		});
 	} catch (err) {
+		console.log("hello");
 		dispatch({
 			type: PROFILE_ERROR,
 			payload: { msg: err.response.statusText, status: err.response.status },

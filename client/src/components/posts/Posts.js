@@ -11,7 +11,7 @@ const Posts = ({ getPosts, post: { posts, loading } }) => {
 	}, [getPosts]);
 
 	return loading ? (
-		<Spinner></Spinner>
+		<Spinner />
 	) : (
 		<Fragment>
 			<h1 className="large text-primary">Posts</h1>
@@ -30,6 +30,7 @@ const Posts = ({ getPosts, post: { posts, loading } }) => {
 
 Posts.propTypes = {
 	getPosts: PropTypes.func.isRequired,
+	post: PropTypes.object.isRequired,
 };
 
 const mapStateToProps = (state) => ({

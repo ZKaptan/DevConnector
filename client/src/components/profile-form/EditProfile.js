@@ -144,7 +144,7 @@ const EditProfile = ({
 						name="skills"
 					/>
 					<small className="form-text">
-						Please use comma separated values (eg. HTML, CSS,JavaScript, React)
+						Please use comma separated values (eg. HTML, CSS, JavaScript, React)
 					</small>
 				</div>
 				<div className="form-group">

@@ -96,7 +96,7 @@ const EditProfile = ({
 						<option value="Other">Other</option>
 					</select>
 					<small className="form-text">
-						Give us an idea of where you are at in your career
+						Give us an idea of where you are at in your career hello
 					</small>
 				</div>
 				<div className="form-group">

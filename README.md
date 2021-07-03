@@ -1,4 +1,4 @@
-# DevConnector
+# Dev Connector
 
 Welcome to the Dev Connector Application. This is meant to be a place where developers may sign up and discuss all things tech and 
 and development related. Once signed up, users may create a profile to showcase their skills, past experiences and educations,

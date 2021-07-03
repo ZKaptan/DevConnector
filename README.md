@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/81720594/124357036-cbee7080-dbef-11eb-8f35-637ff256558b.mov
+
 # Dev Connector
 
 Welcome to the Dev Connector Application. This is meant to be a place where developers may sign up and discuss all things tech and 

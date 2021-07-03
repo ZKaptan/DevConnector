@@ -9,4 +9,4 @@ This is first full-stack application and was certaintly the most enjoyable to bu
 Building this project, solidified my knowledege of the client-server relationship, helping me understand, which part of the code is run 
 on the server, and which part is ran on the client.
 
-
+Please feel free to sign up, and explore the application. I would love the oppurtuity to connect with other developers. The site can be accessed [here](https://arctic-pylon-18588.herokuapp.com/).

@@ -1,5 +1,5 @@
 {
-	"mongoURI": "mongodb+srv://denizkaptan:CjkWV5kWnFfNqBJ@developerconnector.zgidd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"mongoURI": "mongodb+srv://denizkaptan:wEeAsjoo9DQRZiU9@developerconnector.zgidd.mongodb.net/?retryWrites=true&w=majority",
 	"jwtSecret": "secretUserToken",
 	"githubToken": "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"
 }
